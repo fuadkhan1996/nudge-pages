@@ -21,3 +21,4 @@ table { width: 100%; border-collapse: collapse; font-size: 14px; display: block;
 th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
 th { background: var(--soft); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
 footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+.app-icon { display: block; margin: 8px 0 4px -8px; }
